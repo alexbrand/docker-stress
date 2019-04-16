@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Jeff Lindsay <progrium@gmail.com>
+MAINTAINER Alex Brand <alexbrand09@gmail.com>
 
 RUN apt-get update && apt-get install -y stress
 
